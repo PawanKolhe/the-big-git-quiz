@@ -13,7 +13,7 @@
 If Python is not installed on your computer, you will need to download it from [python.org](https://www.python.org/downloads/).
 
 
-### How to run the-bit-git-quiz.py file - for newbies
+### How to run the-big-git-quiz.py file - for newbies
 
 * Download this repository.
 
