@@ -27,7 +27,7 @@ If Python is not installed on your computer, you will need to download it from [
 
 * Run the module
 
-<ing src="https://user-images.githubusercontent.com/39020690/70111762-3bba0500-1621-11ea-9815-2fa4fa3f6e90.png" width="300">
+<img src="https://user-images.githubusercontent.com/39020690/70111762-3bba0500-1621-11ea-9815-2fa4fa3f6e90.png" width="300">
 
 
 ### Ideas for improvement
