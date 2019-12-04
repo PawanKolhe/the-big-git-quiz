@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/39020690/70111545-8b4c0100-1620-11ea-928f-ff86f94f11e9.png" width="200"><img src="(https://user-images.githubusercontent.com/39020690/70111546-8b4c0100-1620-11ea-8fef-4f628565a6c0.png" width="200">
+<img src="https://user-images.githubusercontent.com/39020690/70111545-8b4c0100-1620-11ea-928f-ff86f94f11e9.png" width="200">
+<img src="(https://user-images.githubusercontent.com/39020690/70111546-8b4c0100-1620-11ea-8fef-4f628565a6c0.png" width="200">
 
 # The big git quiz
 
